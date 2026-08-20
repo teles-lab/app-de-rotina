@@ -1,16 +1,29 @@
-# React + Vite
+# 🚀 App de Rotina
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+> Um aplicativo web moderno desenvolvido para gerenciamento de rotinas, hábitos e produtividade diária.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🛠️ Tecnologias Utilizadas
 
-## React Compiler
+Este projeto foi construído utilizando as seguintes tecnologias e ferramentas:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **[React](https://react.dev/)** — Biblioteca JavaScript para construção de interfaces.
+- **[Vite](https://vitejs.dev/)** — Ferramenta de build rápida e moderna para frontend.
+- **[Tailwind CSS](https://tailwindcss.com/)** — Framework CSS utilitário para estilização ágil.
+- **[Supabase](https://supabase.com/)** — Backend-as-a-Service (BaaS) utilizado para banco de dados PostgreSQL e autenticação.
+- **[Git & GitHub](https://github.com/)** — Controle de versão e gestão de projetos com metodologia ágil (Milestones e Issues).
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ⚙️ Como Executar o Projeto Localmente
+
+Siga os passos abaixo para rodar o projeto na sua máquina:
+
+### 1. Pré-requisitos
+Certifique-se de ter o **Node.js** e o **Git** instalados na sua máquina.
+
+### 2. Clonar o Repositório
+```bash
+git clone [https://github.com/teles-lab/app-de-rotina.git](https://github.com/teles-lab/app-de-rotina.git)
+cd app-de-rotina
